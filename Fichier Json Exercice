@@ -1,0 +1,41 @@
+{
+   { "name" : "HDI rank"
+     "type" : "number"
+   },
+   { "name" : "Country"
+     "type" : "string"
+   },
+   { "name"  : "Development Level"
+     "type"  : "string"
+   },
+   { "name"  : " MDG Telephone mainlinesa(per 1,000 people)1990"
+     "type"  : "integer"
+   },
+   {"name"  : " MDG Telephone mainlinesa(per 1,000 people)2005"
+     "type"  : "integer"
+   },
+   { "name" : "MDG  Cellular subscribersa (per 1,000 people) 1990"
+     "type" : "integer"
+   },
+   { "name" : "MDG  Cellular subscribersa (per 1,000 people) 2005"
+     "type" : "integer"
+   },
+   { "name": "MDG Internet users (per 1,000 people) 1990"
+     "type": "integer"
+   },
+   { "name": "MDG Internet users (per 1,000 people) 2005"
+     "type": "integer"
+   },
+   { "name" : "2000-05b"
+     "type" : "integer"
+   },
+   { "name" : "Receipts of royalties and licence fees(US$ per person) 2005"
+     "type" : "integer"
+   },
+   { "name" : "Research and development (R&D) expenditures (% of GDP) 2000-05b"
+     "type" : "integer"
+   },
+   { "name" : "Researchers in R&D (per million people)  1990-2005b"
+     "type" : "integer"
+   },
+   }
